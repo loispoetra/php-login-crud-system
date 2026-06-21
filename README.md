@@ -1,27 +1,32 @@
-# PHP Login & CRUD System (Bootstrap 5)
+# PHP Login & CRUD System
+
+A simple PHP-based Login and CRUD system using MySQL and Bootstrap 5.
 
 ## 🚀 Features
 - User Registration & Login
 - Session Authentication
 - Student CRUD System
 - Clean UI with Bootstrap 5
-- Secure Password Hashing
-- Clean URLs (.htaccess)
+- Secure password hashing
+- Clean URLs (.htaccess support)
+
+## 📸 Screenshots
+(Add screenshots here)
 
 ## ⚙️ Installation
-1. Import database.sql to MySQL
-2. Move project to htdocs
+1. Clone this repository
+2. Import database.sql into MySQL
 3. Configure koneksi.php
-4. Run: http://localhost/project/
+4. Run project using XAMPP/Laragon
 
 ## 🔐 Default Flow
 Register → Login → Dashboard → Manage Students
 
-## 🧠 Requirements
-- PHP 7+
+## 🧠 Tech Stack
+- PHP
 - MySQL
-- Apache (XAMPP / Laragon)
+- Bootstrap 5
+- Apache (.htaccess)
 
 ## 📌 Notes
-- Clean URLs enabled via .htaccess
-- Beginner-friendly PHP project
+This is a beginner-friendly project for learning PHP CRUD systems.
