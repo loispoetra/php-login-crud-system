@@ -1,3 +1,6 @@
+Full Pro Version available on Gumroad 🚀
+https://loispoetra.gumroad.com/l/php-login-crud-system
+
 # PHP Login & CRUD System
 
 A simple PHP-based Login and CRUD system using MySQL and Bootstrap 5.
